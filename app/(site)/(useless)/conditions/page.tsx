@@ -221,10 +221,10 @@ const ConditionsPage = () => {
                         If you have any questions about these Terms, please
                         contact us at{" "}
                         <Link
-                            href="mailto://ujjwalgarg100204@gmail.com"
+                            href="mailto://gargujjwal@gmail.com"
                             className="text-blue-600 transition duration-200 hover:underline"
                         >
-                            ujjwalgarg100204@gmail.com
+                            gargujjwal@gmail.com
                         </Link>{" "}
                         .
                     </p>

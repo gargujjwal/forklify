@@ -9,8 +9,8 @@ const DEVELOPERS_PROFILES = [
         designation: "Main Developer",
         imagePath: "/images/devs/ujjwal.png",
         socials: {
-            github: "https://github.com/ujjwalgarg100204",
-            instagram: "https://instagram.com/ujjwalgarg100204",
+            github: "https://github.com/gargujjwal",
+            instagram: "https://instagram.com/gargujjwal",
             linkedin: "https://www.linkedin.com/in/ujjwal-garg-3a5639243",
         },
     },
